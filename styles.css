@@ -9,9 +9,9 @@
 }
 :root{
     --primary-color:#C68EFD;
-    --primary-text-color:#3D0301;
-    --secondary-text-color:#DCA06D;
-    --primary-link-color:#A55B4B;
+    --primary-text-color:#160302;
+    --secondary-text-color:#1b1917;
+    --primary-link-color:#180906;
 }
 html{
     font-size: 62.5%;
